@@ -1,0 +1,4 @@
+{
+  "name": "{{slugcase name}}",
+  "browser": "{{slugcase name}}.js"
+}
