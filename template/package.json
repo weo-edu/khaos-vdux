@@ -1,4 +1,5 @@
 {
   "name": "{{slugcase name}}",
-  "browser": "{{slugcase name}}.js"
+  "main": "{{name}}.js",
+  "browser": "{{name}}.js"
 }
