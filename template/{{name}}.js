@@ -3,10 +3,9 @@
  */
 
 import element from 'vdux/element'
-import css from 'jss-simple'
 
 /**
- * {{camelcase name}}
+ * <{{name}}/>
  */
 
 function render ({props}) {
