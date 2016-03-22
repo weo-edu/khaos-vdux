@@ -2,13 +2,13 @@
  * Imports
  */
 
-import test from 'ava'
-import {{slugcase name}} from '.'
+import test from 'tape'
+import {{name}} from '.'
 
 /**
- * {{slugcase name}} tests
+ * <{{name}}/> tests
  */
 
-test(t => {
+test('<{{name}}/> should work', t => {
 
 })
