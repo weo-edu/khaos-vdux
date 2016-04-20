@@ -1,4 +1,4 @@
-# <{{slugcase name}}/>
+# <{{name}}/>
 
 {{description}}
 
