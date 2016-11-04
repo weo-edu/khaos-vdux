@@ -2,22 +2,15 @@
  * Imports
  */
 
-import element from 'vdux/element'
-import css from 'jss-simple'
+import {component, element} from 'vdux'
 
 /**
- * {{camelcase name}}
+ * <{{capitalcase name}}/>
  */
 
-function render ({props}) {
-  return (
-  )
-}
-
-/**
- * Exports
- */
-
-export default {
-  render
-}
+export default component({
+  render ({props}) {
+    return (
+    )
+  }
+})

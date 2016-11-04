@@ -6,7 +6,7 @@ import test from 'ava'
 import {{slugcase name}} from '.'
 
 /**
- * {{slugcase name}} tests
+ * <{{capitalcase name}}/> tests
  */
 
 test(t => {
